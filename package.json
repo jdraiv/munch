@@ -1,0 +1,14 @@
+{
+  "name": "munch",
+  "version": "1.0.0",
+  "description": "Simple CSS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jdraiv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
